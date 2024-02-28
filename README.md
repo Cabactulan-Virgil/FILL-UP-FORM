@@ -8,4 +8,6 @@ once 'Addbutton onclick the table container "infoTable" , DATA WILL BE ADDED in 
 however javascript function 'Addrow //Check if the table already has 5 row :if the table rows length >=5
 !Alert// (then the function if maximum rows reached!)
 
+HELLO WORLD!
+
 // Reset the form after adding the row
